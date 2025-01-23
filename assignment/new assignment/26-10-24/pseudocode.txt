@@ -1,0 +1,9 @@
+pseudocode
+Stage 2
+prompt the user to enter a random number 
+collect number 
+save as userInput 
+check if userInput is lesser than the random number
+
+display result
+

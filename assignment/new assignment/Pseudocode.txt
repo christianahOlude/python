@@ -1,0 +1,11 @@
+Pseudocode
+Stage 2
+prompt the user input a month number
+collect number
+save the monthnumber
+prompt the user to input a year
+collect number
+save as year
+check if the monthnumber is equal to 1
+print the month,days and year
+display result
