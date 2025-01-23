@@ -1,0 +1,10 @@
+pseudocode
+Stage 2
+input a random number btw 0 to 100
+prompt the user to a number btw 0 to 100
+collect number 
+save as userInput
+check if number is the same with the random number
+print correct if the number is the same with the random number
+print not correct if the number is not the same with the random number
+display result

@@ -1,0 +1,9 @@
+import unittest
+import switch_numbers(unittest)
+
+class TestSwitchNumbers(unittest.TestCase):
+	def test_that_function_exist(self):
+		numbers = (1,2,3,4,5)
+		actual = switch.switch(numbers)
+		expected = (3,4,5,1,2)
+		self.assertEqual(actual, expected)
