@@ -3,11 +3,15 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/Test" isTestSource="true" />
+=======
+>>>>>>> 01d7e5c98b09478aedaa39fd2aab8df4fb911103
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
     <orderEntry type="library" name="lib8" level="project" />
     <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="library" name="lib10" level="project" />
@@ -19,5 +23,7 @@
     <orderEntry type="library" name="lib3" level="project" />
     <orderEntry type="library" name="lib4" level="project" />
     <orderEntry type="library" name="lib5" level="project" />
+=======
+>>>>>>> 01d7e5c98b09478aedaa39fd2aab8df4fb911103
   </component>
 </module>

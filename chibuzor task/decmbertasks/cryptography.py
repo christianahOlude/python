@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  def encrypt(message: str,key:int):
+=======
+def encrypt(message: str,key:int):
+>>>>>>> 01d7e5c98b09478aedaa39fd2aab8df4fb911103
 	encrypted = ""
 	for letter in message:
 		if letter == "":
