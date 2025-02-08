@@ -2,7 +2,6 @@ class MySet:
     def __init__(self):
         self.array = []
 
-
     def is_empty(self):
         return len(self.array) == 0
 

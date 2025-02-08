@@ -27,7 +27,7 @@ class MyArray:
         self.data = []
         self.size = 0
 
-    def empty(self):
+    def is_empty(self):
         return self.size == 0
 
     def get(self, index):
@@ -36,4 +36,5 @@ class MyArray:
     def substring(self, start, end):
         return self.data[start:end]
 
-
+    def size(self):
+        return self.size

@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c186a596-07e1-47fc-9e5d-b95df74397d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/.idea/function.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/calculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/calculator/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/calculator/.idea/calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/calculator/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/calculator/calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/calculator/calculatorTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonClass.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chibuzor task/decmbertasks/cryptography.py" beforeDir="false" afterPath="$PROJECT_DIR$/chibuzor task/decmbertasks/cryptography.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataBases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DataBases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/MyArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/MyArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/test_my_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/test_my_array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
