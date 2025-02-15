@@ -1,15 +1,16 @@
 import unittest
-from MyArray import MyArray
+
+from dsa.myarray import MyArray
 
 class MyTestCase(unittest.TestCase):
 
 
     def test_that_my_array_is_empty(self):
-        my_array = MyArray(0)
+        my_array = MyArray(5)
         self.assertTrue(my_array.is_empty())
 
     def test_that_my_array_can_add_elements(self, size):
-        my_array = MyArray(1)
+        my_array = MyArray(0)
         my_array.add("divine")
         self.assertEqual(1, size())
 
@@ -45,14 +46,9 @@ class MyTestCase(unittest.TestCase):
                 my_array.remove(i)
                 self.assertEqual(my_array.get(i), i)
 
-    def test_that_my_arrays_can_be_sorted(self, size):
-        my_array = MyArray(size)
-        for i in range(size):
-            my_array.add(i)
-            my_array.add(i)
-            self.assertEqual(my_array.get(i),
 
 
 
-if __name__ == '__main__':
-    unittest.main()
+
+# if __name__ == '__main__':
+#     unittest.main()

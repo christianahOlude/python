@@ -1,7 +1,6 @@
 import unittest
 
-import MyArray
-from queue import Queue
+from dsa.queue import Queue
 
 
 class TestQueue(unittest.TestCase):

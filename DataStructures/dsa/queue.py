@@ -1,4 +1,4 @@
-from MyArray import *
+from dsa.myarray import *
 
 class Queue(MyArray):
     def __init__(self, size):
